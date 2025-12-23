@@ -211,8 +211,6 @@ class ExcelTransferApp:
 
             rows_added += 1
 
-        wb.save(self.dest_file)
-        messagebox.showinfo("Success", f"🎉 {rows_added} rows successfully inserted!")
 
 # ==============================
 # RUN APP
