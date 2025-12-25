@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
